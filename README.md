@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/serhattemel](https://github.com/serhattemel)
-
 - 📫 How to reach me **serhattemel88@gmail.com**
 
 <p align="left">
