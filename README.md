@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat Temel</h1>
 <h3 align="center">Junior Developer From Turkey</h3>
 
-- 🔭 I’m currently working on [Factory Automation Game](https://github.com/serhattemel/Factory-Game-3D)
-
-- 🌱 I’m currently learning **Unity**
-
 - 📫 How to reach me **serhattemel88@gmail.com**
 
 <p align="left">
