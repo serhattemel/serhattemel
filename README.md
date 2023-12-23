@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat Temel</h1>
 <h3 align="center">Junior Developer From Turkey</h3>
 
-- 📫 How to reach me **serhattemel88@gmail.com**
+- 📫 How to reach me **serhattemel88@gmail.com** **https://www.linkedin.com/in/serhattemel88/**
 
 <p align="left">
 </p>
